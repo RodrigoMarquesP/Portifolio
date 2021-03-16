@@ -9,7 +9,7 @@
 
 ## <img width="7%" src="images/portugues.jpg">**Português:**
 
-&emsp;**Background in:** Engenharia, Python, Aprendizagem de máquina, Inteligência Artificial, e análise de dados.
+&emsp;**Background em:** Engenharia, Python, Aprendizagem de máquina, Inteligência Artificial, e análise de dados.
 
 ### &emsp;Projetos:
 
