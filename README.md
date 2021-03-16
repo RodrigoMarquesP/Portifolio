@@ -4,15 +4,32 @@
 
 # Rodrigo Marques Pinheiro
 
-**Background in:** Python, Machine Learning, Artificial Inteligence and Data Analysis.
-
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-marques-pinheiro-0748131b5/)
 
+## **Português:**
+
+**Background in:** Engenharia, Python, Aprendizagem de máquina, Inteligência Artificial, e análise de dados.
+
+### Projetos:
+
+* [Aplicativo móvel de jogo-da-velha com Inteligência Artificial que **NUNCA** perde.](https://github.com/RodrigoMarquesP/TicTacToe_mobile_app)
+* [Geração de músicas com Redes Neurais Recorrentes - Uma Inteligência Artificial compositora.](https://github.com/RodrigoMarquesP/Music_Generation_with_Recurrent_Neural_Networks-An_AI_Composer)
+* [Classificação de imagens com CNN's usando arquitetura VGGNet - Técnicas para maximizar acurácia.](https://github.com/RodrigoMarquesP/Image_classification_with_CNNs_using_VGGNet)
+* [Aumentando o impacto da visualização de dados com Wordclouds - DataStorytelling.](https://github.com/RodrigoMarquesP/Visual_impact_with_wordcloud)
 
 
-## Projetos:
-
-* [AI powered TicTacToe mobile app that never loses](https://github.com/RodrigoMarquesP/TicTacToe_mobile_app)
 
 
+
+
+## **English:**
+
+**Background in:** Engineering, Python, Machine Learning, Artificial Intelligence, and Data Analysis.
+
+### Projects:
+
+* [AI powered TicTacToe mobile app that **NEVER** loses.](https://github.com/RodrigoMarquesP/TicTacToe_mobile_app)
+* [Music Generation with Recurrent Neural Networks - An AI Composer](https://github.com/RodrigoMarquesP/Music_Generation_with_Recurrent_Neural_Networks-An_AI_Composer)
+* [Image classification with CNN's using VGGNet - Techniques to maximize accuracy.](https://github.com/RodrigoMarquesP/Image_classification_with_CNNs_using_VGGNet)
+* [Increasing data visual impact with WordCloud - DataStorytelling.](https://github.com/RodrigoMarquesP/Visual_impact_with_wordcloud)
