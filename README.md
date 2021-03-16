@@ -9,9 +9,9 @@
 
 ## **Português:**
 
-**Background in:** Engenharia, Python, Aprendizagem de máquina, Inteligência Artificial, e análise de dados.
+&emsp;**Background in:** Engenharia, Python, Aprendizagem de máquina, Inteligência Artificial, e análise de dados.
 
-### Projetos:
+### &emsp;Projetos:
 
 * [Aplicativo móvel de jogo-da-velha com Inteligência Artificial que **NUNCA** perde.](https://github.com/RodrigoMarquesP/TicTacToe_mobile_app)
 * [Geração de músicas com Redes Neurais Recorrentes - Uma Inteligência Artificial compositora.](https://github.com/RodrigoMarquesP/Music_Generation_with_Recurrent_Neural_Networks-An_AI_Composer)
@@ -25,9 +25,9 @@
 
 ## **English:**
 
-**Background in:** Engineering, Python, Machine Learning, Artificial Intelligence, and Data Analysis.
+&emsp;**Background in:** Engineering, Python, Machine Learning, Artificial Intelligence, and Data Analysis.
 
-### Projects:
+### &emsp;Projects:
 
 * [AI powered TicTacToe mobile app that **NEVER** loses.](https://github.com/RodrigoMarquesP/TicTacToe_mobile_app)
 * [Music Generation with Recurrent Neural Networks - An AI Composer](https://github.com/RodrigoMarquesP/Music_Generation_with_Recurrent_Neural_Networks-An_AI_Composer)
