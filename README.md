@@ -1,13 +1,13 @@
 [![author](https://img.shields.io/badge/author-rodrigo_marques-red.svg)](https://www.linkedin.com/in/rodrigo-marques-pinheiro-0748131b5/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-<center><img width="70%" src="banner.jpg"></center>
+<center><img width="70%" src="images/banner.jpg"></center>
 
 # Rodrigo Marques Pinheiro
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-marques-pinheiro-0748131b5/)
 
-## **Português:**
+## <img width="7%" src="images/portugues.jpg">**Português:**
 
 &emsp;**Background in:** Engenharia, Python, Aprendizagem de máquina, Inteligência Artificial, e análise de dados.
 
@@ -23,7 +23,7 @@
 
 
 
-## **English:**
+## <img width="7%" src="images/english.jpg">**English:**
 
 &emsp;**Background in:** Engineering, Python, Machine Learning, Artificial Intelligence, and Data Analysis.
 
