@@ -17,6 +17,7 @@
 * [Geração de músicas com Redes Neurais Recorrentes - Uma Inteligência Artificial compositora.](https://github.com/RodrigoMarquesP/Music_Generation_with_Recurrent_Neural_Networks-An_AI_Composer)
 * [Classificação de imagens com CNN's usando arquitetura VGGNet - Técnicas para maximizar acurácia.](https://github.com/RodrigoMarquesP/Image_classification_with_CNNs_using_VGGNet)
 * [Aumentando o impacto da visualização de dados com Wordclouds - DataStorytelling.](https://github.com/RodrigoMarquesP/Visual_impact_with_wordcloud)
+* [Extraindo insights de uma análise exploratória - Insights + DataStorytelling.](https://github.com/RodrigoMarquesP/Airbnb_Data_Exploration)
 
 
 
@@ -33,3 +34,4 @@
 * [Music Generation with Recurrent Neural Networks - An AI Composer](https://github.com/RodrigoMarquesP/Music_Generation_with_Recurrent_Neural_Networks-An_AI_Composer)
 * [Image classification with CNN's using VGGNet - Techniques to maximize accuracy.](https://github.com/RodrigoMarquesP/Image_classification_with_CNNs_using_VGGNet)
 * [Increasing data visual impact with WordCloud - DataStorytelling.](https://github.com/RodrigoMarquesP/Visual_impact_with_wordcloud)
+* [Extracting Insights from an exploratory analysis - Insights + DataStorytelling.](https://github.com/RodrigoMarquesP/Airbnb_Data_Exploration)
